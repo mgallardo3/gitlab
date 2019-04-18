@@ -5,6 +5,8 @@
 *Bob
 *Madison
 *Yanni
+*Ziggy
+*Tom
 ##Clients
 *Mei
 *Emma
