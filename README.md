@@ -6,4 +6,5 @@
 *Bob
 *Madison
 *Yanni
-*Ziggygit add
+*Ziggy
+*Tom
