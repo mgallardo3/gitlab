@@ -1,6 +1,5 @@
 # gitlab
 "Conflict practice repository"
-#gitlab
 ##Team
 *Alex
 *Bob
@@ -8,3 +7,5 @@
 *Yanni
 *Ziggy
 *Tom
+##Clients
+*Mei
